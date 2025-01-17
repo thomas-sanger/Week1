@@ -1,11 +1,11 @@
 body {
-  background-color: black;
+  background-color: black; /* sets background color to black */
 }
 
 #ball {
-  background-color: orange;
-  border-radius: 50%;
-  width: 50px;
-  height: 50px;
-  position: relative;
+  background-color: orange; /* sets background color to orange */
+  border-radius: 50%; /* makes the ball round */
+  width: 50px; /* sets the width of the ball to 50px */
+  height: 50px; /* sets the height of the ball to 50px */
+  position: relative; /* sets the position of the ball to relative */
 }
